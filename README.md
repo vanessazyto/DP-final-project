@@ -24,7 +24,7 @@ The project follows a structured pipeline with the following key phases.
 
 ## How to run?
 1. Download the dataset `combined_data.csv`[https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data].
-2. Download the noteboook `final_notebook.ipynb`.
+2. Download the noteboook `can_words_reveal_mental_health.ipynb`.
 3. Make sure that the dataset and notebook are in the same working directory.
 4. Run:)
 
