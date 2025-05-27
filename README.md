@@ -17,7 +17,7 @@ The project follows a structured pipeline with the following key phases.
 - Model Building and Evaluation: Multiple classification algorithms are trained and evaluated, including: Logistic Regression, Naive Bayes, Support Vector Machine (SVM), XGBoost, a feedforward neural network.Model performance will be assessed using accuracy, F1 scores, and confusion matrices to understand how well each model captures the nuances of mental health categories.
 
 ## Files
-- `final_notebook.ipynb` – main notebook with all analysis
+- `can_words_reveal_mental_health.ipynb` – main notebook with all analysis
 - `process_book.md` – log of what I learned and when
 - `project_description.md` – research question, setup, and reflection
 - `combined_data.csv` - data file
